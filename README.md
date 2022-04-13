@@ -1,3 +1,8 @@
+#React jwt authentication app with movies page
+
+React JWT-authentication app with login, sign-up, logout, and movies page using TMDB Api. Movies page functionality: search movies, get popular movies, and display favorite movies.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
